@@ -1,0 +1,6 @@
+0 Mangle Rojo (Rhizophora mangle)
+1 Mangle Amarillo (Laguncularia racemosa)
+2 Mangle Negro (Avicennia germinans)
+3 Mangle Gris (Conocarpus erectus)
+4 Cigüeñuela Cuellinegra (Himantopus mexicanus)
+5 Carpintero Amarillo (Melanerpes cruentatus)
